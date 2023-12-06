@@ -15,3 +15,4 @@ In Creative mode, you have unlimited resources, immortality, the ability to fly,
 ![alt text](https://preview.redd.it/dl1pvkw8l7j31.jpg?auto=webp&s=cbd81c072983c547dd2bdae50207dfc07341c5cd)
 In Survival mode, you explore the world, collect resources, craft, fight monsters, and gain experience points. Breaking different blocks takes work and requires specific tools. You are also bound by gravity and must manage your own hunger and health. Survival mode in Minecraft: Java Edition also has a sub-category mode called “Hardcore” in which you only get one life – lose it and it’s game over.
 # *Survival*
+![alt text](https://www.bing.com/th/id/OGC.beaa776788318ffa9adf475282e18bb5?pid=1.7&rurl=https%3a%2f%2fwww.icegif.com%2fwp-content%2fuploads%2fminecraft-icegif-9.gif&ehk=sGXV0v%2f%2fgUwT49aUPyvnnMH8ODXk%2frvWS9jPKUUvSe0%3d)
